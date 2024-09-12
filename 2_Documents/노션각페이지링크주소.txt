@@ -1,0 +1,11 @@
+TODO
+https://www.notion.so/7c51e5fc6d214931855357402372ce21?v=4ec93e8cb0c940cbb7de72f77285d385&pvs=4
+
+커밋 메시지 이모지
+https://www.notion.so/e69fcdecf6764ce39fbfb70e4ce843fd?pvs=4
+
+코딩 컨벤션
+https://www.notion.so/1614b558fdb8477f972ee56ccdb2f973?pvs=4
+
+Engine 구조
+https://drive.google.com/file/d/1YK_n_nRyhwk7kB3zHlZbjJXY9Tyu9amK/view?usp=sharing
